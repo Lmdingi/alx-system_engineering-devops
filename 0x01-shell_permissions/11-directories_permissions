@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo chmod +rwx /0x01-shell_permissions/*
+#!/bin/bin
+chmod 777 /0x01-shell_permissions/*
