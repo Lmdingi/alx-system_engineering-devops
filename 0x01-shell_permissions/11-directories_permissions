@@ -1,2 +1,2 @@
 #!/bin/bash
-% chmod -R g+rw *
+% chmod 777 -R ./
