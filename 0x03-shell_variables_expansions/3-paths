@@ -1,2 +1,2 @@
 #!/bin/bash
-tree 0x03-shell_variables_expansions
+echo $PATH | tr -s ":" "\n" | wc -l
