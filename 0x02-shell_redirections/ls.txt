@@ -1,0 +1,16 @@
+bunzip2
+bzip2
+bzip2recover
+funzip
+gpg-zip
+gunzip
+gzip
+unzip
+unzipsfx
+zip
+zipcloak
+zipdetails
+zipgrep
+zipinfo
+zipnote
+zipsplit
