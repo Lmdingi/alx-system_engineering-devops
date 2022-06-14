@@ -1,0 +1,22 @@
+total 184
+drwxr-xr-x 2 root root   326 Jun 14 13:12 .
+drwxr-xr-x 7 root root   160 Jun  5 04:41 ..
+-rwxr-xr-x 1 root root    34 Jun 14 11:26 0-hello_world
+-rwxr-xr-x 1 root root    27 Jun  5 05:25 1-confused_smiley
+-rwxr-xr-x 1 root root    31 Jun  5 05:39 2-hellofile
+-rwxr-xr-x 1 root root    29 Jun 14 12:16 4-lastlines
+-rwxr-xr-x 1 root root    29 Jun 14 12:19 5-firstlines
+-rwxr-xr-x 1 root root    40 Jun 14 12:39 6-third_line
+-rwxr-xr-x 1 root root    72 Jun 14 12:51 7-file
+-rwxr-xr-x 1 root root    30 Jun 14 11:11 exe
+-rw-r--r-- 1 root root     5 Jun  5 10:48 good
+-rw-r--r-- 1 root root   950 Jun 14 12:40 iacta
+-rw-r--r-- 1 root root     6 Jun  5 07:18 lazy.txt
+-rw-r--r-- 1 root root 53019 Jun  5 08:18 less
+-rw-r--r-- 1 root root     0 Jun 14 13:12 ls_cwd_content
+-rwxr-xr-x 1 root root     0 Jun  5 06:29 ls-error.txt
+-rwxr-xr-x 1 root root    56 Jun  5 06:46 ls-output.txt
+-rw-r--r-- 1 root root   126 Jun  5 09:55 ls.txt
+-rw-r--r-- 1 root root     7 Jun  5 04:39 README.md
+-rw------- 1 root root 12288 Jun  5 08:06 .swo
+-rw------- 1 root root 65536 Jun  5 08:05 .swp
